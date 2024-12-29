@@ -1,9 +1,9 @@
-## Machine Learning (ML) Soil-Water Retention Models
+# Machine Learning (ML) Soil-Water Retention Models
 
-# Overview
+## Overview
 This project develops machine learning-based soil-water retention models for geotechnical engineering applications. Unlike traditional isothermal models, these models incorporate temperature as a variable, enabling prediction of soil saturation under any user-specified matric suction and temperature conditions.
 
-# Features
+## Features
 - Polynomial Regression
 - Ridge Regression
 - K-nearest Neighbors (KNN) Regression
